@@ -6,6 +6,13 @@
 ## Watch the demo video below.
 
 
+https://github.com/dkvg-77/Vibecast/assets/122727663/d69de8b0-6869-4e3e-9790-6a3ad9ce1c09
+
+
+
+
+    
+
 ## Tools and Technologies:
 • Backend powered by Node.js, hosting a GraphQL server for efficient data modeling and querying.  
 • Prisma ORM for our database ORM. PostgreSQL as our database. Supabase for cloud hosting and
