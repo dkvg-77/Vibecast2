@@ -1,7 +1,7 @@
 # VibeCast - Social Media Platform
-### • Innovative social media platform empowering users to share posts comprising text and images.
-### • Seamlessly follow or unfollow individuals and explore detailed user profiles to gain insights into their interests, and activities
-### • Discover new connections with ease through the user recommendation system
+#### • Innovative social media platform empowering users to share posts comprising text and images.
+#### • Seamlessly follow or unfollow individuals and explore detailed user profiles to gain insights into their interests, and activities
+#### • Discover new connections with ease through the user recommendation system
 
 ## Watch the demo video below.
 
